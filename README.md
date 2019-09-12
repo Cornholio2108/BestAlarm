@@ -15,5 +15,5 @@ Any wishes?
 We are a young development team and appreciate any feedback.
 
 # 
-# Please view the Issues section and if you have any problems or feature requests create a new issue.
-Ideally with your device modell, android version and a short error description if you experienced any problems.
+**Please view the Issues section and if you have any problems or feature requests create a new issue.**
+**Ideally with your device modell, android version and a short error description if you experienced any problems**
