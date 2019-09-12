@@ -14,4 +14,5 @@ And it has a lot more features:
 Any wishes?
 We are a young development team and appreciate any feedback.
 
-# Please view the Issues section and if you have any problems or feature requests create a new issue ideally with your device modell and android version if you experienced any errors.
+# Please view the Issues section and if you have any problems or feature requests create a new issue.
+# Ideally with your device modell, android version and a short error description if you experienced any problems.
